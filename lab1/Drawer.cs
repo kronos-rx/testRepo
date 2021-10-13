@@ -11,7 +11,7 @@ namespace BinaryPackingUI
     class Drawer
     {
         private PictureBox pictureBox;
-        private const int CIRCLE_DIAMETER = 10;
+        private const int CIRCLE_DIAMETER = 12;
 
         public Drawer(PictureBox pictureBox)
         {
